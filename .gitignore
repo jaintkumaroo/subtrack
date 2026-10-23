@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Your private settings (the template .env.example IS committed)
+.env
+
+# Local file database
+*.db
+*.sqlite3
+
+.vscode/
+.idea/
